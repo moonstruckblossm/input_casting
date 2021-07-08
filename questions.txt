@@ -1,0 +1,32 @@
+name: <name here>
+date: <date here>
+
+1 - What is output? What is an example of an output device?
+
+
+2 - What is input? What is an example of an input device?
+
+
+3 - What function do we use to output to the user?
+
+
+4 - What function do we use to get input to the user?
+
+
+5 - What is the argument that input takes? Why is it important?
+
+
+6 - What data type does input return? What can we do to get different types of data?
+
+
+7 - Give an example of casting input to an integer.
+
+
+8 - When might casting input from the user cause the program to crash?
+
+
+9 - Can you use casting whenever you want?
+
+
+10 - How might you lose information if you cast to an integer, instead of a float?
+
